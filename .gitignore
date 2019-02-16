@@ -1,0 +1,6 @@
+/deps/
+/.erlang.mk/
+/plugins/
+/ebin/
+*~
+rabbitmq_1c.d
